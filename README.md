@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Jaime Ferreira</h1>
-<h3 align="center">Sou um profissional experiente em análise de dados com habilidades avançadas em ferramentas como PowerBI, Excel, Totvs, Qlikview, Salesforce e SQLServer. Dashboard especializado e na implantação de Sistemas de Atendimento ao Cliente, com experiência em ETL e modelagem de dados para fornecer análises e visualizações impactantes.</h3>
+<h4 align="center">Sou um profissional experiente em análise de dados com habilidades avançadas em ferramentas como PowerBI, Excel, Totvs, Qlikview, Salesforce e SQLServer. Dashboard especializado e na implantação de Sistemas de Atendimento ao Cliente, com experiência em ETL e modelagem de dados para fornecer análises e visualizações impactantes.</h4>
 
 <p align="left"> <img src="https://komarev. com/ghpvc/?username=ojaimeferreira&label=Profile%20views&color=0e75b6&style=flat" alt="ojaimeferreira" /> </p>
 
@@ -9,9 +9,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://linktr.ee/ojaimeferreira](https://linktr.ee/ojaimeferreira)
 
-- 📝 Escrevo artigos regularmente on [Análises de dados do dia de um analista](Análises de dados do dia de um analista)
-
-- 📄 Conheça minhas experiências [https://dashboards.digital/p/jaimeferreira](https://dashboards.digital/p /jaimeferreira)
+- 📄 Conheça minhas experiências(https://dashboards.digital/p /jaimeferreira)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
