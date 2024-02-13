@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, Me chamo Jaime Ferreira</h1>
 <h4 align="center">Sou um profissional experiente em análise de dados com habilidades avançadas em ferramentas como PowerBI, Excel, Totvs, Qlikview, Salesforce e SQLServer. Dashboard especializado e na implantação de Sistemas de Atendimento ao Cliente, com experiência em ETL e modelagem de dados para fornecer análises e visualizações impactantes.</h4>
 
-<p align="left"> <img src="https://komarev. com/ghpvc/?username=ojaimeferreira&label=Profile%20views&color=0e75b6&style=flat" alt="ojaimeferreira" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo -ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojaimeferreira" alt="ojaimeferreira" /></a> </p>
-
 - 🌱 Atualmente estou aprendendo **Python**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://linktr.ee/ojaimeferreira](https://linktr.ee/ojaimeferreira)
